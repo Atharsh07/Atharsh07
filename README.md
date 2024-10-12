@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack & Blockchain Developer | AIML Innovator <br>Automation & PLC 
+Full Stack & Blockchain Developer | AIML Innovator 
 
 
 ## 🌐 Socials:
